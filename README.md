@@ -1,3 +1,5 @@
+https://api.daily.dev/devcards/6f02062745e54cdea2c33f8506325b52.png?r=der
+
 <h3>Programming languages</h3>
 <p>
 
