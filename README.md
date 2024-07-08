@@ -26,9 +26,7 @@ Here you can find some of my projects and work.
 </p>
 
 ## Technologies ⚙️
-
-> Tools and Technologies that I have worked
-
+> Programming languages
 <table>
   <tr>
     <td align="center" width="96">
@@ -66,18 +64,28 @@ Here you can find some of my projects and work.
       <br>ASP
     </td>
     </tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
+    </table>
+
+> Web Development
+   <table>
+    <tr>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <br>CSS
+        </td>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <br>Bootstrap
+        </td>
+    </tr>
+    </table>
+
+  > Microservices  
+   <table>
     <tr>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Rest API" />
@@ -104,14 +112,14 @@ Here you can find some of my projects and work.
       <br>RabbitMQ
     </td>    
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="50" height="50" />
-      <br>Jenkins
-    </td>  
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="50" height="50" />
       <br>Postman
     </td>  
   </tr>
+    <table>
+
+> CI/CD    
+  <table>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -121,7 +129,16 @@ Here you can find some of my projects and work.
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="50" height="50" />
+      <br>Jenkins
+    </td>  
   </tr>
+</table>
+
+
+> Databases
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
@@ -140,6 +157,10 @@ Here you can find some of my projects and work.
       <br>Redis
     </td>
   </tr>
+  </table>
+
+  > OS
+  <table>
    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -150,6 +171,10 @@ Here you can find some of my projects and work.
       <br>Ubuntu
     </td>
   </tr>
+  </table>
+
+> Tools
+  <table>
     <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="Linux" />
