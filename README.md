@@ -25,6 +25,20 @@ Here you can find some of my projects and work.
 
 </p>
 
+## Certifications
+<table>
+  <tr>
+    <td align="center" width="120">
+        <img src="https://s10.gifyu.com/images/Sthi8.png" alt="icon" width="65" height="65" />
+      <br>OCI Foundations Associate
+    </td>
+    <td align="center" width="120">
+        <img src="https://s12.gifyu.com/images/Sthig.png" alt="icon" width="65" height="65" />
+      <br>AWS Cloud Practitioner
+    </td>
+    </tr>
+</table>
+
 ## Technologies ⚙️
 > Programming languages
 <table>
@@ -198,7 +212,7 @@ Here you can find some of my projects and work.
     </td> 
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Linux" />
-    <br>IntelliJ Idea
+    <br>Idea
     </td> 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="Linux" />
@@ -215,5 +229,3 @@ Here you can find some of my projects and work.
     </tr>
  
 </table>
-
- 
