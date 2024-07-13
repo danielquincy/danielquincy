@@ -29,12 +29,20 @@ Here you can find some of my projects and work.
 <table>
   <tr>
     <td align="center" width="120">
+        <img src="https://s12.gifyu.com/images/Sthig.png" alt="icon" width="65" height="65" />
+      <br>AWS Cloud Practitioner
+    </td>
+    <td align="center" width="120">
         <img src="https://s10.gifyu.com/images/Sthi8.png" alt="icon" width="65" height="65" />
       <br>OCI Foundations Associate
     </td>
     <td align="center" width="120">
-        <img src="https://s12.gifyu.com/images/Sthig.png" alt="icon" width="65" height="65" />
-      <br>AWS Cloud Practitioner
+        <img src="https://s10.gifyu.com/images/StgOr.png" alt="icon" width="65" height="65" />
+      <br>OCDM Foundations Associate
+    </td>
+    <td align="center" width="120">
+        <img src="https://s12.gifyu.com/images/StgOt.png" alt="icon" width="65" height="65" />
+      <br>OCI AI Foundations Associate
     </td>
     </tr>
 </table>
