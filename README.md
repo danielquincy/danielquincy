@@ -1,4 +1,4 @@
-<img src="https://s10.gifyu.com/images/Stw0j.png" alt="👋 Hi there! I'm Daniel Prado" title="👋 Hi there! I'm Daniel Prado"/>
+<img src="https://imgur.com/a/okCL5rH" alt="👋 Hi there! I'm Daniel Prado" title="👋 Hi there! I'm Daniel Prado"/>
 <div align="justify">
 
 <a href="https://www.linkedin.com/in/danielpamoretty/">
