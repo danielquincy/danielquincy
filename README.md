@@ -25,27 +25,6 @@ Here you can find some of my projects and work.
 
 </p>
 
-## Certifications
-<table>
-  <tr>
-    <td align="center" width="120">
-        <img src="https://s12.gifyu.com/images/Sthig.png" alt="icon" width="65" height="65" />
-      <br>AWS Cloud Practitioner
-    </td>
-    <td align="center" width="120">
-        <img src="https://s10.gifyu.com/images/Sthi8.png" alt="icon" width="65" height="65" />
-      <br>OCI Foundations Associate
-    </td>
-    <td align="center" width="120">
-        <img src="https://s10.gifyu.com/images/StgOr.png" alt="icon" width="65" height="65" />
-      <br>OCDM Foundations Associate
-    </td>
-    <td align="center" width="120">
-        <img src="https://s12.gifyu.com/images/StgOt.png" alt="icon" width="65" height="65" />
-      <br>OCI AI Foundations Associate
-    </td>
-    </tr>
-</table>
 
 ## Technologies ⚙️
 > Programming languages
@@ -68,22 +47,6 @@ Here you can find some of my projects and work.
         <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=anaconda" alt="icon" width="65" height="65" />
-      <br>Anaconda
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="Rest API" />
-      <br>ASP
     </td>
     </tr>
     </table>
@@ -128,10 +91,6 @@ Here you can find some of my projects and work.
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=maven" alt="icon" width="50" height="50" />
       <br>Maven
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" alt="icon" width="50" height="50" />
-      <br>RabbitMQ
     </td>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="50" height="50" />
@@ -166,74 +125,10 @@ Here you can find some of my projects and work.
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="jquery" />
-      <br>MongoDB
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="jquery" />
       <br>MySQL
     </td> 
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
   </tr>
   </table>
 
-  > OS
-  <table>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Linux" />
-      <br>Ubuntu
-    </td>
-  </tr>
-  </table>
-
-> Tools
-  <table>
-    <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="Linux" />
-    <br>Dev.to
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Linux" />
-    <br>Discord
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Linux" />
-    <br>Eclipse
-    </td>    
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Linux" />
-    <br>Grafana
-    </td> 
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="Linux" />
-    <br>Graphql
-    </td> 
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Linux" />
-    <br>Idea
-    </td> 
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="Linux" />
-    <br>Pycharm
-    </td> 
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="Linux" />
-    <br>Powershell
-    </td> 
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Linux" />
-    <br>Prometheus
-    </td>  
-    </tr>
- 
-</table>
