@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/okCL5rH" alt="👋 Hi there! I'm Daniel Prado" title="👋 Hi there! I'm Daniel Prado"/>
+ 
 <div align="justify">
 
 <a href="https://www.linkedin.com/in/danielpamoretty/">
